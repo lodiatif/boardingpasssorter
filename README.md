@@ -30,7 +30,8 @@ git clone https://github.com/lodiatif/boardingpasssorter.git
 Once cloned, change to the root directory of the project and create Python3 virtual-environment and install required packages.  
   
 ```shell  
-cd boardingpasssorterpython3 -m venv venv
+cd boardingpasssorter
+python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```  
